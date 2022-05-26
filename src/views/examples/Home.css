@@ -1,0 +1,15 @@
+h1 {
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    padding: 0 0 15px 10px;
+    text-decoration: underline;
+}
+
+p {
+    color: #11007e;
+    font-size: 20px;
+}
